@@ -5,7 +5,7 @@ I like low level programming and embedded systems. I'm also a privacy advocate.
 <br>
 ### Stats
 <a href="https://github.com/luminite0?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminite0&theme=blueberry&layout=compact&langs_count=8&card_width=400">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminite0&theme=blueberry&layout=compact&langs_count=8&card_width=400&hide_border=true">
 </a>
 <br>
 <br>
@@ -14,7 +14,7 @@ I like low level programming and embedded systems. I'm also a privacy advocate.
 
 ### Repos
 <a href="https://github.com/luminite0/cc1101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luminite0&repo=cc1101&theme=blueberry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luminite0&repo=cc1101&theme=blueberry&hide_border=true">
 </a>
 <br>
 <br>
