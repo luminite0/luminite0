@@ -16,6 +16,8 @@ I like low level programming and embedded systems. I'm also a privacy advocate.
 <a href="https://github.com/luminite0/cc1101">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luminite0&repo=cc1101&theme=blue_navy&hide_border=true">
 </a>
+<a href="https://github.com/luminite0/AT28C256-arduino-mega">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luminite0&repo=AT28C256-arduino-mega&theme=blue_navy&hide_border=true">
 <br>
 <br>
 <br>
