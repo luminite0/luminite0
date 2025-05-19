@@ -1,6 +1,9 @@
 ## Hello!
 
-I like low level programming and embedded systems. I'm also a privacy advocate.
+I'm luminite0.
+
+
+I am interested in low level programming, embedded systems, cybersecurity, and privacy.
 <br>
 <br>
 ### Stats
